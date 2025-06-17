@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Vehicle Rental System
 
 A web-based Java application that allows users to rent vehicles online and provides administrative functionalities for managing vehicles and rental records.
@@ -90,3 +91,6 @@ To run the Vehicle Rental System on your local machine, follow the steps below:
    ```bash
    git clone https://https://github.com/Nikesh-Shah/Vehicle-Rental-System.git
 
+=======
+# Vehicle-Rental-System
+>>>>>>> ad9dfcc3d05f47919fda923479efed59f456dc4e
